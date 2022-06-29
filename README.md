@@ -1,0 +1,2 @@
+# Convolutional-Encoder-Decoder
+This Project on software implementation and performance analysis or evaluation of the convolution coding scheme.it includes the implementation of the convolutional encoder, whose output will be Passed through the BSC and BEC and the Gaussian Channels and for each channel the received sequence will be decoded using a convolutional decoding algorithm and here also we plotted graph of analysis of this all performance in MATLAB.
